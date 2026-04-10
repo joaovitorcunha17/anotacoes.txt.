@@ -1,6 +1,6 @@
 # anotacoes.txt.
 Objetivos
 
-. Desenvolver software
-. Aprender sobre Cibersegurança
-. desenvolver mais habilidades em tecnologia
+_  Desenvolver software
+_  Aprender sobre Cibersegurança
+_  Desenvolver mais habilidades em tecnologia
